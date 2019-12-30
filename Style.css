@@ -1,0 +1,21 @@
+body {
+	margin-top:0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+
+
+	font-size:15px;
+	color: ;
+
+	background:#02002e;
+    
+    
+}
+h1, h2, h3, h4, h5, h6{
+	margin:0px;
+}
+*,
+*:before,
+*:after{
+	box-sizing: border-box;}
