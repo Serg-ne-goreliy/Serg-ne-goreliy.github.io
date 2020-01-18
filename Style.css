@@ -9,6 +9,8 @@ body {
 	color: ;
 
 	background:#02002e;
+	display: flex;
+	justify-content: center;
     
     
 }
